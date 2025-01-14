@@ -41,7 +41,7 @@ a{
 }
 
 #username{
-width: 270px;
+width: 250px;
 height: 40px;
 border-radius: 5px;
 border: 2px solid grey;
@@ -53,7 +53,7 @@ padding-left: 11px;
 }
 
 #email-input{
-    width: 270px;
+    width: 250px;
 height: 40px;
 border-radius: 5px;
 border: 2px solid grey;
@@ -61,7 +61,7 @@ padding-left: 11px;
 }
 
 .password{
-    width: 270px;
+    width: 250px;
 height: 40px;
 margin-top: 7px;
 margin-bottom: 25px;
