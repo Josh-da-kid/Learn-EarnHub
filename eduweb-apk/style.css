@@ -41,7 +41,7 @@ a{
 }
 
 #username{
-width: 270px;
+width: 250px;
 height: 40px;
 
 margin-bottom: 20px;
@@ -52,7 +52,7 @@ padding-left: 11px;
 }
 
 .password{
-    width: 270px;
+    width: 250px;
 height: 40px;
 margin-top: 7px;
 margin-bottom: 25px;
